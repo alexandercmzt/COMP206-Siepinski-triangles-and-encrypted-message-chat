@@ -1,0 +1,5 @@
+Hi there.
+
+I had a lot of trouble getting q2b to work. It does work perfectly fine, but it only works if you use the two images i’ve given for input and output (marsA and marsB) and mars3.bmp also needs to be left in there. You can change the names of marsA and marsB if you want and it should still work, but mars3 needs to be there as a buffer for some reason. I tried to get around this but I didn’t have time with all my exams. Hopefully I won’t get much deducted since the program works exactly as expected! (If for some reason it doesn’t please let me know. AFAIK it works flawlessly)
+
+I also improved the way the chat for q2a and q2b works. It doesn’t have to check if the current incoming message is the same as the last one, as I made the programs to alternate between a sending state and a reading state. Just try it. You should have the improved ability to send the same message twice from one console if you want to.
